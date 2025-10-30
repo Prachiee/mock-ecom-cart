@@ -35,8 +35,9 @@ vibe-store/
 │
 └── README.md
 
+---
 
-## ⚙️ Setup Instructions
+### ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
 
