@@ -43,8 +43,8 @@ vibe-store/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vibe-store.git
-cd vibe-store
+git clone https://github.com/Prachiee/mock-ecom-cart.git
+cd mock-ecom-cart
 ```
 
 ### 2️⃣ Backend setup
