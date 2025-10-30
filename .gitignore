@@ -1,0 +1,4 @@
+# backend/.gitignore
+vibe.db
+node_modules
+.env
