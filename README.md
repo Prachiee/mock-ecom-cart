@@ -3,6 +3,7 @@
 A simple **full-stack shopping app** built using **React (frontend)** and **Express + SQLite (backend)**.
 Users can browse products, add them to cart, and simulate a checkout — all with persistent data stored locally using SQLite.
 
+---
 
 ### 🚀 Tech Stack
 
@@ -12,7 +13,7 @@ Users can browse products, add them to cart, and simulate a checkout — all wit
 **Styling:** Simple custom CSS
 **API Testing:** Postman / Browser
 
-
+---
 
 ## 📂 Folder Structure
 
@@ -34,7 +35,7 @@ vibe-store/
 │   ├── package.json
 │
 └── README.md
-
+```
 ---
 
 ### ⚙️ Setup Instructions
